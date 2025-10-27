@@ -1,0 +1,4 @@
+# Emergency minimal requirements - old stable versions
+fastapi==0.68.0
+uvicorn==0.15.0
+pydantic==1.10.13
