@@ -1,0 +1,17 @@
+dataset_stats:
+  test_images: 37
+  total_images: 358
+  total_objects: 584
+  train_images: 286
+  val_images: 35
+description: Greenhouse Single (단동 비닐하우스)
+image_format: tif
+names:
+- 비닐하우스_단동
+nc: 1
+original_class_id: 9
+path: E:\nw_ai\dataset_greenhouse_single
+task: segment
+test: images/test
+train: images/train
+val: images/val

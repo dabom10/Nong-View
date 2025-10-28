@@ -1,0 +1,17 @@
+dataset_stats:
+  test_images: 58
+  total_images: 569
+  total_objects: 669
+  train_images: 455
+  val_images: 56
+description: Greenhouse Multi (다동 비닐하우스)
+image_format: tif
+names:
+- 비닐하우스_다동
+nc: 1
+original_class_id: 10
+path: E:\nw_ai\dataset_greenhouse_multi
+task: segment
+test: images/test
+train: images/train
+val: images/val

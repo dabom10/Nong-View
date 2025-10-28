@@ -1,0 +1,15 @@
+{
+  "total_images": 1356,
+  "train_images": 1084,
+  "val_images": 135,
+  "test_images": 137,
+  "class_counts": {
+    "IRG_production": 1355,
+    "Greenhouse_multi": 18,
+    "Greenhouse_single": 36,
+    "Silage_bale": 306,
+    "Rye_production": 147
+  },
+  "image_format": "tif",
+  "image_size": "1024x1024 (mostly)"
+}

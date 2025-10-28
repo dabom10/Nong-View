@@ -1,0 +1,22 @@
+# 대용량 TIF/GPKG 추론 파이프라인 의존성
+
+# 지리공간 데이터 처리
+rasterio>=1.3.0
+geopandas>=0.13.0
+shapely>=2.0.0
+fiona>=1.9.0
+
+# YOLO 및 컴퓨터 비전
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# 수치 계산 및 데이터 처리
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 기타 유틸리티
+pathlib
+logging
+datetime
+json

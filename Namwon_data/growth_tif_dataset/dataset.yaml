@@ -1,0 +1,27 @@
+dataset_stats:
+  class_counts:
+    Greenhouse_multi: 18
+    Greenhouse_single: 36
+    IRG_production: 1355
+    Rye_production: 147
+    Silage_bale: 306
+  test: 137
+  total: 1356
+  train: 1084
+  val: 135
+format: tif
+img_size:
+- 1024
+- 1024
+names:
+- IRG_production
+- Rye_production
+- Greenhouse_single
+- Greenhouse_multi
+- Silage_bale
+nc: 5
+normalize: true
+path: E:\nw_ai\growth_tif_dataset
+test: images/test
+train: images/train
+val: images/val
