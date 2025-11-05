@@ -7,7 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS-336791.svg)](https://postgis.net)
 
 > **드론 정사영상을 활용한 AI 기반 농업 모니터링 및 행정 자동화 시스템**  
-> **🚀 세계 최고 수준의 고급 ML 기능 통합 완료**
+> **🚀 고급 ML 기능 통합 완료**
 
 **프로젝트 상태**: 🎉 **95% 완성** (고급 ML 시스템 완전 통합)  
 **최종 업데이트**: 2025-10-27  
