@@ -1,3 +1,5 @@
+2025.11.21 수집 - 농업 AI 관련 소스
+
 # 🌾 Nong-View: 차세대 농업 AI 플랫폼
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
